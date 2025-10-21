@@ -63,16 +63,14 @@ If you experience issues:
 | 🎵 Open Audio | 🔵 | Opens audio track in new tab | 
 | 📹 Open Video+Audio | 🟣 | Opens both files in separate tabs|
 
-## Important Notes
 
 ### 💖 Support the Developer
-Love using this extension? Support continued development with just 1 to unlock PREMIUM features:
-
-- Remove all donation popups
-- Direct video & audio downloads
-- Batch download capabilities
-- Early access to new features
--Priority support
+Love using this extension? Support continued development with just 1€ to unlock PREMIUM features:
+- ❌ Remove all donation popups
+- ✅ Direct video & audio downloads
+- 📦 Batch download capabilities
+- 🚀 Early access to new features
+- 💝 Priority support
 
 ### Free VS Premium 
 | Feature | FREE Version | PREMIUM Version |
@@ -84,13 +82,7 @@ Love using this extension? Support continued development with just 1 to unlock P
 |Donation Popups|✅ Every 20 downloads|❌ No popups ever|
 |New Features|🔄 Standard access|🚀 Early access|
 
-💖 Support the Developer
-Love using this extension? Support continued development with just 1€ to unlock PREMIUM features:
-- ❌ Remove all donation popups
-- ✅ Direct video & audio downloads
-- 📦 Batch download capabilities
-- 🚀 Early access to new features
-- 💝 Priority support
+## Important Notes
 
 ### Legal Compliance
 - Respect content creator's rights and copyrights
