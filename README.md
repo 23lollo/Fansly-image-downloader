@@ -1,4 +1,4 @@
-# Fansly Downloader Chrome
+# Fansly Downloader Chrome Extention
 
 A Chrome extension that provides quick access to media content from Fansly with one-click convenience.
 
