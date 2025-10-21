@@ -22,14 +22,6 @@ A Chrome extension that provides quick access to media content from Fansly with 
 
 ## Usage
 
-### App Support
-
-If you experience issues:
-- Ensure you're on a supported Fansly page
-- Play videos completely to enable detection
-- Refresh the page if buttons don't appear
-- Verify the extension is enabled in Chrome extensions
-
 ### For Images
 - Navigate to any Fansly page with images
 - Click the green Download Image button
@@ -82,7 +74,7 @@ Love using this extension? Support continued development with just 1€ to unloc
 |Donation Popups|✅ Every 20 downloads|❌ No popups ever|
 |New Features|🔄 Standard access|🚀 Early access|
 
-## Important Notes
+## ⚠️ Important Notes
 
 ### Legal Compliance
 - Respect content creator's rights and copyrights
@@ -96,10 +88,18 @@ Love using this extension? Support continued development with just 1€ to unloc
 - All processing happens locally
 - Only activates on Fansly websites
 
-## License
+### 🔧 Troubleshooting
 
-MIT License
+If you experience issues:
+- Ensure you're on a supported Fansly page
+- Play videos completely to enable detection
+- Refresh the page if buttons don't appear
+- Verify the extension is enabled in Chrome extensions
+- Check browser console for any error messages
 
-## Disclaimer
+### 📄 License
 
+MIT License - See LICENSE file for details
+
+## ⚠️ Disclaimer
 This project is not affiliated with or endorsed by Fansly. It is an independent browser extension created for educational purposes. Users are responsible for complying with all applicable laws and platform terms of service.
