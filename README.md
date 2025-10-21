@@ -22,6 +22,14 @@ A Chrome extension that provides quick access to media content from Fansly with 
 
 ## Usage
 
+### App Support
+
+If you experience issues:
+- Ensure you're on a supported Fansly page
+- Play videos completely to enable detection
+- Refresh the page if buttons don't appear
+- Verify the extension is enabled in Chrome extensions
+
 ### For Images
 - Navigate to any Fansly page with images
 - Click the green Download Image button
@@ -33,7 +41,7 @@ A Chrome extension that provides quick access to media content from Fansly with 
 - 🔴 - Opens video file in new tab
 - 🔵 - Opens audio track in new tab  
 - 🟣 - Opens both video and audio in separate tabs
-- Use your browser's save function in the new tabs to download
+- Use your browser's save function (right-click → Save As  OR 3 dots → Save As) in the new tabs to download 
 
 ## Merging Videos & Audio simple
 
@@ -44,7 +52,6 @@ A Chrome extension that provides quick access to media content from Fansly with 
 - Click "Convert/Save"
 - Choose profile: "Video - H.264 + MP3 (MP4)"
 - Start conversion
-
 
 
 ## Button Reference 
@@ -58,9 +65,32 @@ A Chrome extension that provides quick access to media content from Fansly with 
 
 ## Important Notes
 
-### Popup
-In the free version there is a popup that can be disable with a 1€ donation to 
-support this extention and a future onlyfans downloader extention 
+### 💖 Support the Developer
+Love using this extension? Support continued development with just 1 to unlock PREMIUM features:
+
+- Remove all donation popups
+- Direct video & audio downloads
+- Batch download capabilities
+- Early access to new features
+-Priority support
+
+### Free VS Premium 
+| Feature | FREE Version | PREMIUM Version |
+|---------------|-----------|-------------|
+|Image Download|✅ Direct download|✅ Direct download|
+|Video Download|🔗 Link redirection|✅ Direct download|
+|Audio Extraction|🔗 Link redirection|✅ Direct download|
+|both Download|🔗 Link redirection|✅ Video + Audio together|
+|Donation Popups|✅ Every 20 downloads|❌ No popups ever|
+|New Features|🔄 Standard access|🚀 Early access|
+
+💖 Support the Developer
+Love using this extension? Support continued development with just 1€ to unlock PREMIUM features:
+- ❌ Remove all donation popups
+- ✅ Direct video & audio downloads
+- 📦 Batch download capabilities
+- 🚀 Early access to new features
+- 💝 Priority support
 
 ### Legal Compliance
 - Respect content creator's rights and copyrights
@@ -73,14 +103,6 @@ support this extention and a future onlyfans downloader extention
 - No external server communication  
 - All processing happens locally
 - Only activates on Fansly websites
-
-## Support
-
-If you experience issues:
-- Ensure you're on a supported Fansly page
-- Play videos completely to enable detection
-- Refresh the page if buttons don't appear
-- Verify the extension is enabled in Chrome extensions
 
 ## License
 
