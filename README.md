@@ -47,7 +47,7 @@ A Chrome extension that provides quick access to media content from Fansly with 
 ## Important Notes
 
 ## Popup
--In the free version there is a popup that can be disable with a 1€ donation to 
+- In the free version there is a popup that can be disable with a 1€ donation to 
 support this extention and a future onlyfans downloader extention 
 
 ### Legal Compliance
