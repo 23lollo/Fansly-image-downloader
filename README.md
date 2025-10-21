@@ -49,8 +49,8 @@ A Chrome extension that provides quick access to media content from Fansly with 
 
 ## Button Reference 
 
-| Button | Color | Action |Paid |
-|--------|-------|--------|------|
+| Button | Color | Action |
+|--------|-------|--------|
 | ⬇️ Download Image | 🟢 | Direct image download |
 | 🎥 Open Video | 🔴 | Opens video file in new tab | 
 | 🎵 Open Audio | 🔵 | Opens audio track in new tab | 
