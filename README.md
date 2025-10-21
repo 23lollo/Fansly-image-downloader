@@ -37,17 +37,17 @@ A Chrome extension that provides quick access to media content from Fansly with 
 
 ## Button Reference
 
-| Button | Color | Action |
-|--------|-------|--------|
-| ⬇️ Download Image | Green | Direct image download |
-| 🎥 Open Video | Red | Opens video file in new tab |
-| 🎵 Open Audio | Blue | Opens audio track in new tab |
-| 📹 Open Video+Audio | Purple | Opens both files in separate tabs |
+| Button | Color | Action |Paid|
+|--------|-------|--------|------------------|
+| ⬇️ Download Image | 🟢 | Direct image download |❌
+| 🎥 Open Video | 🔴 | Opens video file in new tab | ✅️
+| 🎵 Open Audio | 🔵 | Opens audio track in new tab | ✅️
+| 📹 Open Video+Audio | 🟣 | Opens both files in separate tabs |✅️
 
 ## Important Notes
 
 ### Legal Compliance
-- Respect content creators' rights and copyrights
+- Respect content creator's rights and copyrights
 - Follow Fansly's Terms of Service
 - Use content responsibly and legally
 - For personal use only
