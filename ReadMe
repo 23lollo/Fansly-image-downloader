@@ -4,35 +4,35 @@ A Chrome extension that provides quick access to media content from Fansly with 
 
 ## Features
 
-- 🟢 **One-Click Image Download** - Download images instantly
-- 🔴 **Direct Video Access** - Open video files in new tabs
-- 🔵 **Separate Audio Access** - Access audio tracks individually
-- 🟣 **Combined Media Access** - Open both video and audio simultaneously
-- 🎯 **Auto-Detection** - Buttons appear automatically when media is available
-- 📱 **Non-Intrusive** - Clean overlay that doesn't interfere with browsing
-- 🔒 **Privacy Focused** - Works entirely locally in your browser
+- 🟢 One-Click Image Download - Download images instantly
+- 🔴 Direct Video Access - Open video files in new tabs
+- 🔵 Separate Audio Access - Access audio tracks individually
+- 🟣 Combined Media Access - Open both video and audio simultaneously
+- 🎯 Auto-Detection - Buttons appear automatically when media is available
+- 📱 Non-Intrusive - Clean overlay that doesn't interfere with browsing
+- 🔒 Privacy Focused - Works entirely locally in your browser
 
 ## Installation
 
 1. Download this repository as a ZIP file and extract it
 2. Open Chrome and go to `chrome://extensions/`
-3. Enable **Developer mode** in the top-right corner
-4. Click **Load unpacked** and select the extracted folder
+3. Enable Developer mode in the top-right corner
+4. Click Load unpacked and select the extracted folder
 5. The extension is now ready to use on Fansly
 
 ## Usage
 
 ### For Images
 - Navigate to any Fansly page with images
-- Click the green **Download Image** button
+- Click the green Download Image button
 - Image downloads directly to your computer
 
 ### For Videos & Audio
 - Go to any Fansly video post and play the video
 - Use the colored buttons that appear on the left:
-  - **Red** - Opens video file in new tab
-  - **Blue** - Opens audio track in new tab  
-  - **Purple** - Opens both video and audio in separate tabs
+- 🔴 - Opens video file in new tab
+- 🔵 - Opens audio track in new tab  
+- 🟣 - Opens both video and audio in separate tabs
 - Use your browser's save function in the new tabs to download
 
 ## Button Reference
