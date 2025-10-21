@@ -1,48 +1,39 @@
 # Fansly Media Downloader
 
-A simple Chrome extension that provides easy access to media content from Fansly with one-click convenience.
-
-## What It Does
-
-This extension adds convenient download buttons to Fansly pages that appear automatically when media is detected:
-
-- **Instant image downloads** with a single click
-- **Direct access to video files** in new tabs
-- **Separate audio track access** when available
-- **Combined video+audio option** for complete media
+A Chrome extension that provides quick access to media content from Fansly with one-click convenience.
 
 ## Features
 
-- 🟢 **One-Click Image Download** - Download images instantly without extra steps
-- 🔴 **Video File Access** - Get direct access to video files in new tabs
-- 🔵 **Audio Track Access** - Access separate audio tracks when available
-- 🟣 **Complete Media Access** - Open both video and audio simultaneously
-- 🎯 **Smart Detection** - Buttons appear automatically when media is available
+- 🟢 **One-Click Image Download** - Download images instantly
+- 🔴 **Direct Video Access** - Open video files in new tabs
+- 🔵 **Separate Audio Access** - Access audio tracks individually
+- 🟣 **Combined Media Access** - Open both video and audio simultaneously
+- 🎯 **Auto-Detection** - Buttons appear automatically when media is available
 - 📱 **Non-Intrusive** - Clean overlay that doesn't interfere with browsing
-- 🔒 **Privacy Safe** - Works entirely locally in your browser
+- 🔒 **Privacy Focused** - Works entirely locally in your browser
 
 ## Installation
 
 1. Download this repository as a ZIP file and extract it
-2. Open Chrome and navigate to `chrome://extensions/`
-3. Enable "Developer mode" in the top-right corner
-4. Click "Load unpacked" and select the extracted folder
+2. Open Chrome and go to `chrome://extensions/`
+3. Enable **Developer mode** in the top-right corner
+4. Click **Load unpacked** and select the extracted folder
 5. The extension is now ready to use on Fansly
 
 ## Usage
 
-### Downloading Images
-- Visit any Fansly page with images
-- Click the green "Download Image" button that appears
-- The image downloads instantly to your computer
+### For Images
+- Navigate to any Fansly page with images
+- Click the green **Download Image** button
+- Image downloads directly to your computer
 
-### Accessing Videos & Audio
+### For Videos & Audio
 - Go to any Fansly video post and play the video
-- Use the colored buttons that appear:
-  - **Red button** - Opens the video file in a new tab
-  - **Blue button** - Opens the audio track in a new tab
-  - **Purple button** - Opens both video and audio in separate tabs
-- In the new tabs, use your browser's save function to download
+- Use the colored buttons that appear on the left:
+  - **Red** - Opens video file in new tab
+  - **Blue** - Opens audio track in new tab  
+  - **Purple** - Opens both video and audio in separate tabs
+- Use your browser's save function in the new tabs to download
 
 ## Button Reference
 
@@ -59,25 +50,25 @@ This extension adds convenient download buttons to Fansly pages that appear auto
 - Respect content creators' rights and copyrights
 - Follow Fansly's Terms of Service
 - Use content responsibly and legally
-- This tool is for personal use only
+- For personal use only
 
-### Privacy Assurance
+### Privacy
 - No data collection or tracking
-- No external server communication
-- All processing happens locally in your browser
+- No external server communication  
+- All processing happens locally
 - Only activates on Fansly websites
 
 ## Support
 
-If you experience any issues:
+If you experience issues:
 - Ensure you're on a supported Fansly page
 - Play videos completely to enable detection
 - Refresh the page if buttons don't appear
-- Check that the extension is enabled in Chrome
+- Verify the extension is enabled in Chrome extensions
 
 ## License
 
-MIT License - free for personal use and modification
+MIT License
 
 ## Disclaimer
 
