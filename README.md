@@ -35,7 +35,7 @@ A Chrome extension that provides quick access to media content from Fansly with 
 - 🟣 - Opens both video and audio in separate tabs
 - Use your browser's save function in the new tabs to download
 
-### Merging Videos & Audio simple
+## Merging Videos & Audio simple
 
 ### Using VLC Media Player
 - Open VLC
