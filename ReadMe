@@ -1,0 +1,84 @@
+# Fansly Media Downloader
+
+A simple Chrome extension that provides easy access to media content from Fansly with one-click convenience.
+
+## What It Does
+
+This extension adds convenient download buttons to Fansly pages that appear automatically when media is detected:
+
+- **Instant image downloads** with a single click
+- **Direct access to video files** in new tabs
+- **Separate audio track access** when available
+- **Combined video+audio option** for complete media
+
+## Features
+
+- 🟢 **One-Click Image Download** - Download images instantly without extra steps
+- 🔴 **Video File Access** - Get direct access to video files in new tabs
+- 🔵 **Audio Track Access** - Access separate audio tracks when available
+- 🟣 **Complete Media Access** - Open both video and audio simultaneously
+- 🎯 **Smart Detection** - Buttons appear automatically when media is available
+- 📱 **Non-Intrusive** - Clean overlay that doesn't interfere with browsing
+- 🔒 **Privacy Safe** - Works entirely locally in your browser
+
+## Installation
+
+1. Download this repository as a ZIP file and extract it
+2. Open Chrome and navigate to `chrome://extensions/`
+3. Enable "Developer mode" in the top-right corner
+4. Click "Load unpacked" and select the extracted folder
+5. The extension is now ready to use on Fansly
+
+## Usage
+
+### Downloading Images
+- Visit any Fansly page with images
+- Click the green "Download Image" button that appears
+- The image downloads instantly to your computer
+
+### Accessing Videos & Audio
+- Go to any Fansly video post and play the video
+- Use the colored buttons that appear:
+  - **Red button** - Opens the video file in a new tab
+  - **Blue button** - Opens the audio track in a new tab
+  - **Purple button** - Opens both video and audio in separate tabs
+- In the new tabs, use your browser's save function to download
+
+## Button Reference
+
+| Button | Color | Action |
+|--------|-------|--------|
+| ⬇️ Download Image | Green | Direct image download |
+| 🎥 Open Video | Red | Opens video file in new tab |
+| 🎵 Open Audio | Blue | Opens audio track in new tab |
+| 📹 Open Video+Audio | Purple | Opens both files in separate tabs |
+
+## Important Notes
+
+### Legal Compliance
+- Respect content creators' rights and copyrights
+- Follow Fansly's Terms of Service
+- Use content responsibly and legally
+- This tool is for personal use only
+
+### Privacy Assurance
+- No data collection or tracking
+- No external server communication
+- All processing happens locally in your browser
+- Only activates on Fansly websites
+
+## Support
+
+If you experience any issues:
+- Ensure you're on a supported Fansly page
+- Play videos completely to enable detection
+- Refresh the page if buttons don't appear
+- Check that the extension is enabled in Chrome
+
+## License
+
+MIT License - free for personal use and modification
+
+## Disclaimer
+
+This project is not affiliated with or endorsed by Fansly. It is an independent browser extension created for educational purposes. Users are responsible for complying with all applicable laws and platform terms of service.
