@@ -1,0 +1,34 @@
+{
+  "manifest_version": 3,
+  "name": "Fansly Media Downloader FREE",
+  "version": "1.0",
+  "description": "Free media downloader for Fansly - Upgrade to Premium for direct downloads",
+  "icons": {
+    "16": "/icons/icon16.png",
+    "48": "/icons/icon48.png",
+    "128": "/icons/icon128.png"
+  },
+  "permissions": ["activeTab", "downloads", "webRequest", "storage"],
+  "host_permissions": ["https://fansly.com/*", "https://cdn3.fansly.com/*", "https://cdn.fansly.com/*", "https://storage.googleapis.com/*"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://fansly.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "/icons/icon16.png",
+      "48": "/icons/icon48.png",
+      "128": "/icons/icon128.png"
+    }
+  }
+}

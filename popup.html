@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <style>
+        body {
+            width: 350px;
+            padding: 20px;
+            font-family: Arial, sans-serif;
+            background: #f5f5f5;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 15px;
+        }
+        .status {
+            background: white;
+            padding: 15px;
+            border-radius: 10px;
+            margin-bottom: 15px;
+            text-align: center;
+            border-left: 4px solid #4CAF50;
+        }
+        .premium-offer {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+            margin-bottom: 15px;
+        }
+        .premium-features {
+            background: linear-gradient(135deg, #ff6b6b 0%, #ffa500 100%);
+            color: white;
+            padding: 15px;
+            border-radius: 10px;
+            margin-bottom: 15px;
+        }
+        .donation-btn {
+            display: block;
+            background: #29abe0;
+            color: white;
+            padding: 12px 20px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: bold;
+            margin: 15px 0;
+            transition: transform 0.2s;
+        }
+        .donation-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+        }
+        .features {
+            background: white;
+            padding: 15px;
+            border-radius: 10px;
+            font-size: 13px;
+        }
+        .feature-item {
+            margin: 8px 0;
+            padding-left: 20px;
+            position: relative;
+        }
+        .feature-item:before {
+            content: "✓";
+            position: absolute;
+            left: 0;
+            color: #4CAF50;
+            font-weight: bold;
+        }
+        .premium-feature-item {
+            margin: 6px 0;
+            padding-left: 20px;
+            position: relative;
+            font-size: 12px;
+        }
+        .premium-feature-item:before {
+            content: "🚀";
+            position: absolute;
+            left: 0;
+        }
+        .download-count {
+            background: #e7f7ff;
+            padding: 10px;
+            border-radius: 5px;
+            margin: 10px 0;
+            font-size: 12px;
+        }
+        .benefits {
+            background: rgba(255,255,255,0.1);
+            padding: 12px;
+            border-radius: 8px;
+            margin: 12px 0;
+            text-align: left;
+        }
+        .benefit-item {
+            margin: 6px 0;
+            padding-left: 20px;
+            position: relative;
+            font-size: 12px;
+        }
+        .benefit-item:before {
+            content: "⭐";
+            position: absolute;
+            left: 0;
+        }
+        .comparison {
+            background: rgba(255,255,255,0.9);
+            padding: 12px;
+            border-radius: 8px;
+            margin: 12px 0;
+            font-size: 11px;
+            color: #333;
+        }
+        .comparison-item {
+            display: flex;
+            justify-content: space-between;
+            margin: 4px 0;
+            padding: 2px 0;
+        }
+        .free {
+            color: #666;
+        }
+        .premium {
+            color: #ff6b6b;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h2 style="margin: 0; color: #333;">Fansly Downloader</h2>
+        <p style="margin: 5px 0; color: #666; font-size: 13px;">FREE Version - Upgrade to Premium</p>
+    </div>
+    
+    <div class="status">
+        <div style="font-size: 14px; color: #4CAF50; font-weight: bold;">🟢 Extension Active</div>
+        <p style="margin: 8px 0 0 0; font-size: 12px; color: #666;">Ready to download media from Fansly</p>
+    </div>
+
+    <div class="download-count" id="downloadCount">
+        Loading download count...
+    </div>
+    
+    <div class="premium-offer">
+        <h3 style="margin: 0 0 12px 0;">🚫 Remove All Popups</h3>
+        <p style="margin: 0 0 15px 0; font-size: 14px; line-height: 1.4;">
+            <strong>Donate €1 to permanently remove all donation popups!</strong>
+        </p>
+        
+        <div class="benefits">
+            <div class="benefit-item">No more donation reminders</div>
+            <div class="benefit-item">Clean, distraction-free experience</div>
+            <div class="benefit-item">Support future updates</div>
+            <div class="benefit-item">One-time payment</div>
+        </div>
+
+        <a href="https://ko-fi.com/23lollo" target="_blank" class="donation-btn">
+            🎉 Remove Popups - €1
+        </a>
+        
+        <p style="margin: 12px 0 0 0; font-size: 11px; opacity: 0.9;">
+            After donating, email us with your Ko-fi receipt to get popup-free version
+        </p>
+    </div>
+
+    <div class="premium-features">
+        <h3 style="margin: 0 0 10px 0; text-align: center;">🚀 PREMIUM FEATURES</h3>
+        
+        <div class="premium-feature-item">Direct video downloads (no new tabs)</div>
+        <div class="premium-feature-item">Direct audio downloads (no new tabs)</div>
+        <div class="premium-feature-item">Batch download all images at once</div>
+        <div class="premium-feature-item">Download entire profiles automatically</div>
+        <div class="premium-feature-item">Auto-scroll & capture all media</div>
+        <div class="premium-feature-item">No download limits</div>
+        <div class="premium-feature-item">Priority support & updates</div>
+
+        <div class="comparison">
+            <div class="comparison-item">
+                <span class="free">FREE: Open in new tab</span>
+                <span class="premium">PREMIUM: Direct download</span>
+            </div>
+            <div class="comparison-item">
+                <span class="free">FREE: Manual saving</span>
+                <span class="premium">PREMIUM: One-click batch</span>
+            </div>
+            <div class="comparison-item">
+                <span class="free">FREE: Popups every 20 downloads</span>
+                <span class="premium">PREMIUM: No interruptions</span>
+            </div>
+        </div>
+
+        <a href="https://ko-fi.com/23lollo" target="_blank" class="donation-btn" style="background: linear-gradient(135deg, #ff6b6b, #ffa500);">
+            ⚡ Upgrade to Premium - €1
+        </a>
+    </div>
+    
+    <div class="features">
+        <h4 style="margin: 0 0 10px 0; color: #333;">Current FREE Features:</h4>
+        <div class="feature-item">One-click image downloads</div>
+        <div class="feature-item">Video file access (opens in new tab)</div>
+        <div class="feature-item">Audio track extraction (opens in new tab)</div>
+        <div class="feature-item">Combined video+audio access</div>
+        <div class="feature-item">Auto-detection of media</div>
+        <div class="feature-item">Basic download functionality</div>
+    </div>
+
+    <script>
+        // Display current download count
+        chrome.runtime.sendMessage({action: 'getDownloadCount'}, (response) => {
+            const downloadCountElement = document.getElementById('downloadCount');
+            if (response && response.downloadCount !== undefined) {
+                const nextDonationReminder = 20 - (response.downloadCount % 20);
+                downloadCountElement.innerHTML = `
+                    <strong>Total Downloads:</strong> ${response.downloadCount}<br>
+                    <strong>Next Donation Popup:</strong> ${nextDonationReminder} downloads
+                `;
+            }
+        });
+    </script>
+</body>
+</html>
